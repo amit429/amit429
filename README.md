@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... WEB DEVELOPMENT FRONT END , UI / UX
 - 📫 How to reach me ... EMAIL : amitpile2002@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amit429&theme=radical&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amit429&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
 
 <!---
 amit429/amit429 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
