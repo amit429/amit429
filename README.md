@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... WEB DEVELOPMENT FRONT END , UI / UX
 - 📫 How to reach me ... EMAIL : amitpile2002@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amit429&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amit429&theme=radical&count_private=true&show_icons=true&include_all_commits=true) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!---
